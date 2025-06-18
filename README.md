@@ -1,4 +1,4 @@
-# 🛒 Retail Demand Forecasting - **MLZoomCamp Competition 2024** by [DataTalks.Club's](https://datatalks.club/) by **[Alexander D. Rios](https://linktr.ee/aletbm)**
+# 🛒 Retail Demand Forecasting - **MLZoomCamp Competition 2024** from [DataTalks.Club's](https://datatalks.club/) by **[Alexander D. Rios](https://linktr.ee/aletbm)**
 
 ![example](./src/plot1.png)
 
